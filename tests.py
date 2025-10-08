@@ -1,5 +1,5 @@
 import pytest
-from app import Eleve, Ecole
+from main import Eleve, Ecole
 
 
 def test_initialisation_eleve():
