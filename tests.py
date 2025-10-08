@@ -19,3 +19,5 @@ def test_heritage_eleve():
     assert ecole.nom_ecole == "Keyce Academy"
     assert ecole.specialites == ["Marketing"]
     assert ecole.eleves == []
+
+# python -m pytest tests.py
